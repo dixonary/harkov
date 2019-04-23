@@ -15,7 +15,7 @@ stack exec -- markov data/cmudict.txt
 
 ## Examples
 
-Here are some produced examples.
+Here are some produced examples. The chain is produced over CMU pronunciations, so you'll have to use your imagination with the spelling.
 
 ```
 L OW1 L AY1 B IH1 K T AH0 N
